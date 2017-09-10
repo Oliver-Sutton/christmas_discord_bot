@@ -1,6 +1,8 @@
 import discord
 import asyncio
 
+### TODO: http://apscheduler.readthedocs.io/en/3.3.1/userguide.html#code-examples ###
+
 client = discord.Client()
 
 @client.event
